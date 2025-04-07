@@ -40,6 +40,20 @@
           "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL254aTB5MS5qcGc="
         ]
       }
+    },
+    "3": {
+      "title": "3",
+      "volume": "1",
+      "last_updated": "1744057513",
+      "groups": {
+        "Arc 1 - Intro": [
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2U0cjIydC5qcGc=",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL25uNXptby5qcGc=",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL25qb3dhMi5qcGc=",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2ozbXBwNy5qcGc=",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzg1YnBjeC5qcGc="
+        ]
+      }
     }
   }
 }
